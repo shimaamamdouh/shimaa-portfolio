@@ -1,4 +1,3 @@
-
 body {
   font-family: 'Segoe UI', sans-serif;
   background: linear-gradient(135deg, #f9a825, #ec407a);
@@ -43,4 +42,25 @@ header {
 
 .btn:hover {
   background: #fce4ec;
+}
+
+/* ✅ Contact Section */
+.contact {
+  padding: 2em;
+  background: #333;
+  color: white;
+  text-align: center;
+}
+
+.contact-info a {
+  color: #90caf9;
+  text-decoration: none;
+  font-weight: bold;
+}
+
+.icon {
+  width: 24px;
+  height: 24px;
+  vertical-align: middle;
+  margin-right: 0.5em;
 }

@@ -44,7 +44,6 @@ header {
   background: #fce4ec;
 }
 
-/* ✅ Contact Section */
 .contact {
   padding: 2em;
   background: #333;
@@ -56,11 +55,4 @@ header {
   color: #90caf9;
   text-decoration: none;
   font-weight: bold;
-}
-
-.icon {
-  width: 24px;
-  height: 24px;
-  vertical-align: middle;
-  margin-right: 0.5em;
 }
